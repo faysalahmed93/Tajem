@@ -9,7 +9,6 @@
   }
   .navbar-nav {
     text-align: center;
-    
   }
   /* menu-end */
   /* banner-start */
@@ -17,9 +16,7 @@
     padding: 150px 0 110px 0;
   }
   .banner-text h1 {
- 
     font-size: 30px;
-  
   }
 
   /* banner-end */
@@ -40,57 +37,56 @@
   }
   /* our-story-end */
 
-.service-content {
-  padding-top: 40px;
-}
-/* our-story-end */
-    /* our-story-end */
-    .project-bottom a {
-      width: 100%;
-      display: inline-block;
-    }
-    .arrows-left {
-    display:none !important;
-    }
-    .arrows-right {
-      display:none !important;
-    }
-    .contact-left h3 {
-    
-      text-align: center;
-    }
-    .contact-left a {
-      width: 100%;
-      display: inline-block;
-      text-align: center;
-    }
-    .contact-right h3 {
-      padding-top: 30px;
-      text-align: center;
-    }
-    .footer-top-left img {
-      padding-right: 130px;
-    }
-    .footer-top-wrap {
-      text-align: center;
-      margin: 0 auto;
-    }
-    .input-center{
-      margin-left: 90px;
-    }
-    .footer-bottom-right{
-      margin-left: 105px;
-    }
-    .fotter-bottom {
-      text-align: center;
-}
-    .footer-top-left p {
-      padding: 0 11px 0 0;
-      margin: 0 115px;
-    }
-    .footer-top-left img {
-      padding-right: 50px;
-    }
+  .service-content {
+    padding-top: 40px;
+  }
+  /* our-story-end */
+  /* our-story-end */
+  .project-bottom a {
+    width: 100%;
+    display: inline-block;
+  }
+  .arrows-left {
+    display: none !important;
+  }
+  .arrows-right {
+    display: none !important;
+  }
+  .contact-left h3 {
+    text-align: center;
+  }
+  .contact-left a {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+  }
+  .contact-right h3 {
+    padding-top: 30px;
+    text-align: center;
+  }
+  .footer-top-left img {
+    padding-right: 130px;
+  }
+  .footer-top-wrap {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .input-center {
+    margin-left: 90px;
+  }
+  .footer-bottom-right {
+    margin-left: 105px;
+  }
+  .fotter-bottom {
+    text-align: center;
+  }
+  .footer-top-left p {
+    padding: 0 11px 0 0;
+    margin: 0 115px;
+  }
+  .footer-top-left img {
+    padding-right: 50px;
+  }
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -110,14 +106,10 @@
     padding: 150px 0 110px 0;
   }
   .banner-text h1 {
- 
     font-size: 30px;
-  
   }
   .banner-text h1::after {
- 
     top: 65px;
-
   }
   /* banner-end */
   /* our-story-start */
@@ -139,48 +131,47 @@
     padding-top: 40px;
   }
   /* our-story-end */
-    /* our-story-end */
-    .project-bottom a {
-      width: 100%;
-      display: inline-block;
-    }
-    .arrows-left {
-      top: 82%;
-      left: 10%;
-    }
-    .arrows-right {
-      top: 81%;
-      right: 12%;
-    }
-    .contact-left h3 {
-    
-      text-align: center;
-    }
-    .contact-left a {
-      width: 100%;
-      display: inline-block;
-      text-align: center;
-    }
-    .contact-right h3 {
-      padding-top: 30px;
-      text-align: center;
-    }
-    .footer-top-left img {
-      padding-right: 130px;
-    }
-    .footer-top-wrap {
-      text-align: center;
-      margin: 0 auto;
-    }
-    .input-center{
-      margin-left: 85px;
-    }
-    .footer-bottom-right{
-      margin-left: 105px;
-    }
-    .fotter-bottom {
-      text-align: center;
-}
+  /* our-story-end */
+  .project-bottom a {
+    width: 100%;
+    display: inline-block;
+  }
+  .arrows-left {
+    top: 82%;
+    left: 10%;
+  }
+  .arrows-right {
+    top: 81%;
+    right: 12%;
+  }
+  .contact-left h3 {
+    text-align: center;
+  }
+  .contact-left a {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+  }
+  .contact-right h3 {
+    padding-top: 30px;
+    text-align: center;
+  }
+  .footer-top-left img {
+    padding-right: 130px;
+  }
+  .footer-top-wrap {
+    text-align: center;
+    margin: 0 auto;
+  }
+  .input-center {
+    margin-left: 85px;
+  }
+  .footer-bottom-right {
+    margin-left: 105px;
+  }
+  .fotter-bottom {
+    text-align: center;
+  }
 }
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -193,7 +184,6 @@
   }
   .navbar-nav {
     text-align: center;
-
   }
   /* menu-end */
   /* banner-start */
@@ -233,7 +223,6 @@
     right: 12%;
   }
   .contact-left h3 {
-  
     text-align: center;
   }
   .contact-left a {
@@ -252,10 +241,10 @@
     text-align: center;
     margin: 0 auto;
   }
-  .input-center{
+  .input-center {
     margin-left: 175px;
   }
-  .footer-bottom-right{
+  .footer-bottom-right {
     margin-left: 105px;
   }
 }
